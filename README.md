@@ -4,8 +4,8 @@ A static front-end interface designed to host an AI-powered account opening assi
 
 ## Project Structure
 - `index.html`: Semantic HTML layout.
-- `css/style.css`: UI styling and widget positioning constraints.
-- `js/script.js`: Initialization logic and resilient polling mechanism for the third-party chat widget.
+- `style.css`: UI styling and widget positioning constraints.
+- `script.js`: Initialization logic and resilient polling mechanism for the third-party chat widget.
 
 ## Setup
 1. Clone the repository.
