@@ -1,6 +1,6 @@
 # Bank Account Opening Portal
 
-A static front-end interface designed to host an AI-powered account opening assistant. Built with HTML, CSS, and Vanilla JavaScript, integrating the WotNot chat widget.
+A static front-end interface designed to host an AI-powered account opening assistant. Built with HTML, CSS, and Vanilla JavaScript, integrating the WotNot chat widget. 
 
 ## Project Structure
 - `index.html`: Semantic HTML layout.
